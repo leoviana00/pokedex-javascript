@@ -2,8 +2,11 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #5 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/2c5c0f7eab392cc0c3a4e8f7bb63d8cb5b58791c)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/pokedex-javascript/commits/a8e72f533412ab1115978c1a63d01ad57920c713)
+*  feat(api): integration and transforming pokemon list into html list [View](https://github.com/leoviana00/pokedex-javascript/commits/8c140786e54c31391a1daca630377aba1620733c)
+*  feat(pokedex): listando os pokemons com paginacao [View](https://github.com/leoviana00/pokedex-javascript/commits/e65b68699a0a8aec1b87f04f2d745395118ea207)
 
 
 
