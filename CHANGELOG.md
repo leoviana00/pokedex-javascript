@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 3.0.0 - (2024-10-31)
+### Merges
+*  Merge pull request #7 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/6d5ccfe4fca0f439f5c2fb9c2ea9a3247d888f50)
 *  Merge pull request #6 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/ff5ca26774055fbafa06f544c75c5f92b8da0407)
 *  Merge pull request #5 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/2c5c0f7eab392cc0c3a4e8f7bb63d8cb5b58791c)
 ### Commits
@@ -10,6 +18,8 @@
 *  feat(pokedex): listando os pokemons com paginacao [View](https://github.com/leoviana00/pokedex-javascript/commits/e65b68699a0a8aec1b87f04f2d745395118ea207)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/pokedex-javascript/commits/039a0c2c01add91b238271782505513175ffdb79)
 *  docs(readme): documentando o projeto [View](https://github.com/leoviana00/pokedex-javascript/commits/283fbc1c8438bdfab65f39be67e2d502aa2e90ae)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/pokedex-javascript/commits/05e56b0a392dcd9d2f3a308ca17c629467dcc6b1)
+*  docs(tag): tagueando e documentando as alteracoes [View](https://github.com/leoviana00/pokedex-javascript/commits/80fd94dccdbff73ac168c619c54b7bc84ff1f0d7)
 
 
 
@@ -44,8 +54,9 @@
 *  feat(templates): issues and pull request [View](https://github.com/leoviana00/pokedex-javascript/commits/ed84698ebdc9f639073961d27f20caf5bc4af5bf)
 ## 📝 Metadata
 ```
-This version -------- 2.0.0
+This version -------- 3.0.0
+2.0.0
 1.0.0
-Previous version ---- 1.0.0
-Total commits ------- 11
+Previous version ---- 2.0.0
+Total commits ------- 21
 ```
