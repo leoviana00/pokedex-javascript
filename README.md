@@ -1,7 +1,7 @@
 <h1 align="center">Pokedex com Javascript</h1>
 
 <p align="center">
-  <img alt="Pokémon" src="https://img.shields.io/static/v1?label=Pokedex&message=Pokémon&color=8257E5&labelColor=000000"  />
+  <img alt="Pokemon" src="https://img.shields.io/static/v1?label=Pokedex&message=Pokemon&color=8257E5&labelColor=000000"  />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
