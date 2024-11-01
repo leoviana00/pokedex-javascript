@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #10 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/548214239760379423a9d1653eb8eb4c29c9fec7)
 *  Merge pull request #9 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/91099851ba66685d231c857f36fddbab5dfaf2cc)
 *  Merge pull request #8 from leoviana00/feature/integration/pokeapi [View](https://github.com/leoviana00/pokedex-javascript/commits/e75fe6455dc32871056226f9da492ec6fda1f357)
 ### Commits
@@ -9,6 +10,8 @@
 *  docs(readme): update readme [View](https://github.com/leoviana00/pokedex-javascript/commits/ae830ec9099bae74e997a605efe381bc2f1cf155)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/pokedex-javascript/commits/0406079fa65c11b64a889eb4810b00eecbba5848)
 *  feat(js): mudando arquivos js de diretorio [View](https://github.com/leoviana00/pokedex-javascript/commits/cf57878271ac9e649fdbc05c343f6b2a347bde8a)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/pokedex-javascript/commits/2fa70365d2608b50294bb7a2738b9debb25d3706)
+*  feat(structure): organizando diretorios [View](https://github.com/leoviana00/pokedex-javascript/commits/0313e8505a3c0c7bbf7a36c421400fee28fea008)
 
 
 
