@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="POKEDEX" src="assets/data/pokedex.png">
+  <img alt="POKEDEX" src="./src/data/pokedex.png">
 </p>
 
 
